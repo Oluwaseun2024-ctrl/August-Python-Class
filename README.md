@@ -15,3 +15,6 @@ An Excel project analyzing a year's worth of sales from a fictitious pizza sales
 - Data Visualization
 - Recommendation
 - Conclusion
+
+### Data Source
+The dataset for this project is sourced from [Maven Analytics website](https://app.mavenanalytics.io/datasets?search=pizz) designed specifically for practice purposes. It is presented in an Excel file with four tables (Order Details, Orders, Pizza Types, and Pizzas) comprising 48,620, 21,350, 32, and 96 rows respectively, and 4, 3, 4, and 4 columns respectively. The dataset includes key attributes essential for a comprehensive analysis, such as:
