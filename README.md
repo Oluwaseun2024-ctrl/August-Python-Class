@@ -9,7 +9,7 @@ An Excel project analyzing a year's worth of sales from a fictitious pizza sales
  - Expected Outcome
 - Document Purpose
 - Use Case
-- Data Source
+- [Data Source](https://github.com/Oluwaseun2024-ctrl/August-Python-Class/blob/main/README.md#data-source)
 - Data Cleaning and Processing
 - Data Analysis
 - Data Visualization
